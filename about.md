@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Senior Developer @ The Berry Company
 
 ### Contact me
 
-[Twitter](https://twitter.com/kldavis4)
-[Email](mailto:kldavis@planetdavis.com)
+* [Linkedin](https://www.linkedin.com/in/kldavis4)
+* [Twitter](https://twitter.com/kldavis4)
+* [Email](mailto:kelly@planetdavis.com)
