@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Pro Mode for YouTube Video Editor
 ---
 
-Coming Soon
+Chrome extension
