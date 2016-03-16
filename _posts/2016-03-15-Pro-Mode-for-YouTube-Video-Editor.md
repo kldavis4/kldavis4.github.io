@@ -3,7 +3,7 @@ layout: post
 title: Pro Mode for YouTube Video Editor
 ---
 
-![PM Logo]()
+![PM Logo](/images/icon128.png)
 
 [Pro Mode for YouTube Video Editor](https://chrome.google.com/webstore/detail/pro-mode-for-youtube-vide/aenmbapdfjdkanhfppdmmdipakgacanp) is a Chrome browser extension that aims to significantly improve the existing video editor provided by YouTube.
 
